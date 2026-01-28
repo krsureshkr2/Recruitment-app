@@ -1,0 +1,8 @@
+{
+  "name": "RecruitTrack1 - AI Recruitment System",
+  "description": "An automated candidate tracking system with AI-powered resume parsing and web enrichment capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
